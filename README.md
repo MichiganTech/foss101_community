@@ -1,7 +1,7 @@
-FOSS101: Essentials of Free and Open Source Software
+FOSS101 Community: Essentials of Free and Open Source Software
 -------------------
 
-This repository is intended for practicing advanced Git concepts such as **branching**, **merging** and **creating/submitting pull requests** ... commonly used in real world collaborations or when contributing features to a repository maintained by someone else (for public use).        
+This repository is a sandbox for practicing advanced Git concepts such as **branching**, **merging** and **creating/submitting pull requests** ... commonly used in real world collaborations or when contributing features to a repository maintained by someone else (for public use). 
 
 This **README.md** is a *read-only* document. Do not edit it under any circumstance.
 
